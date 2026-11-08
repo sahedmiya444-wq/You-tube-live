@@ -1,0 +1,6 @@
+{
+  "name": "Auto Live Studio",
+  "description": "Continuous MP4 video looping broadcaster to YouTube Live via RTMPS.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
